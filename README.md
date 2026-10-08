@@ -1,5 +1,4 @@
 # Lab3
 
 ## Tests
-Hello, LoL!
-Hello, Uwuntu
+Hello, remote and Uwunlu git LoL!
